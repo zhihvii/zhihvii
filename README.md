@@ -1,7 +1,12 @@
 <img width="1199" height="231" alt="image" src="https://i.pinimg.com/1200x/38/d2/d8/38d2d8f7f6f010303119a1898e95e719.jpg" />
 
+                                                    Other sites and this in progress
 
 
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JwMXRsaHQybnU3NDE4dGJxd2hhdXZibmR1MzllcnVmMHVpYTZibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K4xW5Aa0RcMBqdc5pg/giphy.gif" alt="cool gif" />
+</p>
 
 
 
